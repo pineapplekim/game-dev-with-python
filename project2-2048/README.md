@@ -24,4 +24,3 @@ _Code not published due to academic integrity policy._
 ## Demonstration
 
 [▶️ Click here to watch the video on YouTube!](https://youtu.be/cG-FpsGfkfU)
-(Pineapple Kim is my creator alias on YouTube.)
