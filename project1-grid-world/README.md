@@ -1,5 +1,3 @@
----
-
 # Project 1: Grid World Pathfinding
 
 **Language**: Python  
