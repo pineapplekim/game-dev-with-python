@@ -32,6 +32,8 @@ _Code not published due to academic integrity policy._
 - Algorithmic Thinking in Pathfinding: I learned how different search strategies (DFS, BFS, UCS, A*) balance exporations vs. exploitation, and how algorithm design choices directly affect both path optimality and runtime performance. Implementing each from scratch helped me internalize how frontier management, cost tracking, and heuristics define the behavior of intelligent agents.
 - Practical Debugging and Optimization: Fixing the given buggy DFS taught me how small logic errors can completely break search correctness. Through debugging, I improved my ability to isolate algorithmic vs. visualization issues and learned to use incremental testing and print-based tracing effectively.
 
+---
+
 ## Output
 
 <img src="./grid-output.png" alt="Grid World Output" width="500"/>
