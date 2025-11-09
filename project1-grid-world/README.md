@@ -1,4 +1,4 @@
-# Assignment 1: Grid World Pathfinding
+# Project 1: Grid World Pathfinding
 
 **Language**: Python  
 **Library**: PyGame  
