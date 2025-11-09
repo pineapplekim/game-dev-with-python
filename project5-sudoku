@@ -1,0 +1,25 @@
+# Project 5: Sudoku – Constraint Solver & SAT Encoding
+
+**Language**: Python
+**Library**: PyGame
+Code not published due to university academic policy
+
+---
+
+## What I Did
+
+- Implemented a **Constraint Satisfaction Problem (CSP)** solver for Sudoku using:
+  - Constraint propagation
+  - Backtracking search
+  - (Optional) Minimum Remaining Values (MRV) heuristic
+
+---
+
+## Problmes & Solutions  
+- 20-second timeout per puzzle (for testing)
+
+---
+
+## Output
+
+<img src="./sudoku-output.png" alt="Sudoku Output" width="500"/>
