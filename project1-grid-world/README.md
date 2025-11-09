@@ -2,7 +2,7 @@
 
 **Language**: Python  
 **Library**: PyGame  
-Code not published due to university academic policy
+_Code not published due to academic integrity policy._
 
 ---
 
