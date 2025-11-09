@@ -19,6 +19,17 @@ _Code not published due to academic integrity policy._
 
 ## Problems & Solutions
 
+- Implementing One-Step Transitions
+  - Problem: When simulating transitions, my previous code didn't properly handle terminal states. Actions continued even after the game ended, leading to undefined rewards and NaN value updates.
+  - Solution: In `make_one_transition()`, I checked `game_over()` after each action and returned `None` for next states when terminal. I also used `check_reward()` to capture rewards(+1 for win, -1 for lose, 0 otherwise).
+
+---
+
+## What I Learned
+
+- Exploration vs. Exploitation: Through tuning ε in Q-learning, I saw firsthand how exploration prevents premature convergence but too much randomness slows learning.
+- Discounting Future Rewards: I gained intuition for why the discount factor stabilizes value estimates and models long-term strategy.
+
 ---
 
 ## Demonstration
