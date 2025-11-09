@@ -1,3 +1,5 @@
+---
+
 # Project 1: Grid World Pathfinding
 
 **Language**: Python  
@@ -37,6 +39,8 @@ _Code not published due to academic integrity policy._
 ## Output
 
 <img src="./grid-output.png" alt="Grid World Output" width="500"/>
+
+---
 
 ## Demonstration
 
