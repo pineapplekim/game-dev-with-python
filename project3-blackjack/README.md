@@ -2,7 +2,7 @@
 
 **Language**: Python  
 **Library**: PyGame  
-_Code not published due to university academic policy._
+_Code not published due to academic integrity policy._
 
 ---
 
@@ -18,11 +18,6 @@ _Code not published due to university academic policy._
 ---
 
 ## Problems & Solutions
-
-- Python 3.10  
-- PyGame for GUI  
-- MC / TD(0) / Q-Learning Algorithms  
-- Discount factor: γ = 0.95  
 
 ---
 
